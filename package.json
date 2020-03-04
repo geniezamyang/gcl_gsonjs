@@ -1,5 +1,5 @@
 {
-  "name": "gcl_gsonjs",
+  "name": "@genie-networks/gcl_gsonjs",
   "version": "0.1.0",
   "description": "GCL gson js library",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "url": "geniezamyang/gcl_gsonjs"
+    "url": "git+https://github.com/geniezamyang/gcl_gsonjs.git"
   },
   "keyword": [
     "gson",
@@ -22,5 +22,12 @@
     "moment": "^2.18.1",
     "uuid": "^3.1.0",
     "uuid-parse": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/geniezamyang/gcl_gsonjs/issues"
+  },
+  "homepage": "https://github.com/geniezamyang/gcl_gsonjs#readme",
+  "directories": {
+    "test": "test"
   }
 }
