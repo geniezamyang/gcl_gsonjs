@@ -15,7 +15,7 @@
 /* Require gclGson */
 const gclGson = require('gcl_gsonjs')
 
-/* Construct value of each type */
+/* Construct value for each type */
 let myNum = 3
 
 let myStr = 'hello'
@@ -64,7 +64,7 @@ let buf = Buffer.alloc(gclGson.calcSize(myDoc), 0x00)
 gclGson.serialize(myDoc, buf, 0)
 
 // deserialize
-let desDoc = Gson.deserialize(buf)
+let desDoc = gclGson.deserialize(buf)
 
 // toJSON
 let jsonObj = myDoc.toJSON()
