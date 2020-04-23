@@ -2,12 +2,12 @@
 **Genie Common Library - GSON js**
 
 ## changeLog
-* [1.0.0] 1.0.0 Released.
+* [0.1.32] sync with company Library
 * [0.1.7] Chaneg Readme.md syntax
 * [0.1.6] remove Oper.Reg
 
 ## Install
-> npm install gcl_gsonjs
+> npm install @genie-networks/gcl_gsonjs
 
 
 ## Usage

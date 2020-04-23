@@ -1,6 +1,6 @@
 {
   "name": "@genie-networks/gcl_gsonjs",
-  "version": "0.1.0",
+  "version": "0.1.32",
   "description": "GCL gson js library",
   "main": "index.js",
   "scripts": {
